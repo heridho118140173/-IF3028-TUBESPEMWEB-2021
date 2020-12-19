@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Beranda</title>
+        <title>Beranda</title> 
         <link rel="stylesheet" href="<?php echo base_url(''); ?>">
     </head>
     <h1 align="center">SIMPLE LAPOR!</h1><br>
